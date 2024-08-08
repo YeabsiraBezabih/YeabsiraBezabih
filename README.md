@@ -13,14 +13,14 @@ I'm **Yeabsira Bezabih**, a passionate coder and a dedicated software engineerin
 **💞️ I’m looking to learn and experience things related to my interests, collaborating with like-minded individuals, and contributing to exciting projects. I'm open to new opportunities and challenges that can help me grow as a developer.**
 
 **📫 How to reach me:**
-- [**Telegram**](https://t.me/its_yeab_sira)
+- [**Telegram**](https://t.me/Yeabsira_Bezabih)
 - [**LinkedIn**](https://www.linkedin.com/in/yeabsira-bezabih-a23082299)
 - [**Twitter**](https://x.com/YeabsiraBezabih)
 - [**GitHub**](https://github.com/Yeabdevts)
-- [**Facebook**](https://www.facebook.com/profile.php?id=61563986120976)
-- [**Instagram**](https://www.instagram.com/its_yeab_sira)
+- [**Facebook**](https://www.facebook.com/Yeabsira.Bezabih7)
+- [**Instagram**](https://www.instagram.com/yeabsira_bezabih)
 - [**YouTube**](https://www.youtube.com/@YeabsiraBezabih)
-- [**Tik Tok**](https://www.tiktok.com/@its_yeab_sira)
+- [**Tik Tok**](https://www.tiktok.com/@yeabsira_bezabih)
 
 I am eager to connect with fellow developers, share knowledge, and work on projects that make a difference. Feel free to reach out to me through the links above.
 
