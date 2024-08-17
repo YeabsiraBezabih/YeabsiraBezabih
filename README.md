@@ -26,12 +26,10 @@ I’m expanding my knowledge and honing my skills in various aspects of software
 
 ---
 
-### 🤝 Collaboration & Learning
-I’m eager to learn, collaborate with like-minded individuals, and contribute to exciting projects. Open to new opportunities and challenges that can help me grow as a developer.
+### 🤝 Let's Connect
+Feel free to reach out to me for collaboration, networking, or just to say hi!
 
----
-
-### 📬 Let's Connect
+**Social Media:**
 <div align="center">
   <a href="https://t.me/Yeabsira_Bezabih" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Telegram-%2300BFFF.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -42,14 +40,18 @@ I’m eager to learn, collaborate with like-minded individuals, and contribute t
   <a href="https://x.com/YeabsiraBezabih" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://github.com/Yeabdevts" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://www.facebook.com/Yeabsira.Bezabih7" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/yeabsira_bezabih" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
+**Work & Projects:**
+<div align="center">
+  <a href="https://github.com/Yeabdevts" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.youtube.com/@YeabsiraBezabih" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
@@ -64,3 +66,4 @@ I’m eager to learn, collaborate with like-minded individuals, and contribute t
 <div align="center">
   <p>I am eager to connect with fellow developers, share knowledge, and work on projects that make a difference. Feel free to reach out to me through the links above.</p>
 </div>
+
