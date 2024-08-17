@@ -29,8 +29,9 @@ I’m expanding my knowledge and honing my skills in various aspects of software
 ### 🤝 Let's Connect
 Feel free to reach out to me for collaboration, networking, or just to say hi!
 
-**Social Media:**
+
 <div align="center">
+  <h3>Social Media</h3>
   <a href="https://t.me/Yeabsira_Bezabih" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Telegram-%2300BFFF.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
@@ -48,8 +49,9 @@ Feel free to reach out to me for collaboration, networking, or just to say hi!
   </a>
 </div>
 
-**Work & Projects:**
+
 <div align="center">
+  <h3>Work & Projects</h3>
   <a href="https://github.com/Yeabdevts" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
