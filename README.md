@@ -1,6 +1,12 @@
-**👋 Hi, I’m Yeabsira**
-
-I'm **Yeabsira Bezabih**, a passionate coder and a dedicated software engineering student at Addis Ababa Science and Technology University. My journey in coding started with curiosity and has now evolved into a deep-seated interest in creating impactful software solutions.
+<div align="center">
+  <img src="./profile.jpg" alt="Yeabsira Bezabih" width="200" height="200">
+  
+  <h1 style="font-family: 'Arial', sans-serif; background-color: #f5f5f5; padding: 10px;">👋 Hi, I’m Yeabsira</h1>
+  
+  <p style="font-family: 'Arial', sans-serif; background-color: #f5f5f5; padding: 10px;">
+    I'm <strong>Yeabsira Bezabih</strong>, a passionate coder and a dedicated software engineering student at Addis Ababa Science and Technology University. My journey in coding started with curiosity and has now evolved into a deep-seated interest in creating impactful software solutions.
+  </p>
+</div>
 
 **👀 I’m interested in:**
 - **Web Development**
@@ -20,11 +26,7 @@ I'm **Yeabsira Bezabih**, a passionate coder and a dedicated software engineerin
 - [**Facebook**](https://www.facebook.com/Yeabsira.Bezabih7)
 - [**Instagram**](https://www.instagram.com/yeabsira_bezabih)
 - [**YouTube**](https://www.youtube.com/@YeabsiraBezabih)
-- [**Tik Tok**](https://www.tiktok.com/@yeabsira_bezabih)
+- [**TikTok**](https://www.tiktok.com/@yeabsira_bezabih)
 
 I am eager to connect with fellow developers, share knowledge, and work on projects that make a difference. Feel free to reach out to me through the links above.
 
-<!---
-Yeabdevts/Yeabdevts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
