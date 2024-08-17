@@ -1,6 +1,6 @@
-<div align="center">
-  ![Profile Badge](https://img.shields.io/badge/Profile-Active-brightgreen)
+![Profile Badge](https://img.shields.io/badge/Profile-Active-brightgreen)
 
+<div align="center">
   <img src="https://your-photo-url-here" alt="Yeabsira Bezabih" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   
   <h1>Welcome! I’m Yeabsira</h1>
@@ -64,8 +64,3 @@ I’m eager to learn, collaborate with like-minded individuals, and contribute t
 <div align="center">
   <p>I am eager to connect with fellow developers, share knowledge, and work on projects that make a difference. Feel free to reach out to me through the links above.</p>
 </div>
-
-<!---
-Yeabdevts/Yeabdevts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
