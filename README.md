@@ -1,12 +1,11 @@
 <div align="center">
   ![Profile Badge](https://img.shields.io/badge/Profile-Active-brightgreen)
+
   <img src="https://your-photo-url-here" alt="Yeabsira Bezabih" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2C3E50;">Welcome! I’m Yeabsira</h1>
+  <h1>Welcome! I’m Yeabsira</h1>
   
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #34495E; max-width: 600px; margin: auto;">
-    I'm <strong>Yeabsira Bezabih</strong>, a passionate coder and dedicated software engineering student at Addis Ababa Science and Technology University. My journey in coding started with curiosity and has evolved into a deep-seated interest in creating impactful software solutions.
-  </p>
+  <p>I'm <strong>Yeabsira Bezabih</strong>, a passionate coder and dedicated software engineering student at Addis Ababa Science and Technology University. My journey in coding started with curiosity and has evolved into a deep-seated interest in creating impactful software solutions.</p>
 </div>
 
 ---
@@ -63,9 +62,7 @@ I’m eager to learn, collaborate with like-minded individuals, and contribute t
 ---
 
 <div align="center">
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #34495E;">
-    I am eager to connect with fellow developers, share knowledge, and work on projects that make a difference. Feel free to reach out to me through the links above.
-  </p>
+  <p>I am eager to connect with fellow developers, share knowledge, and work on projects that make a difference. Feel free to reach out to me through the links above.</p>
 </div>
 
 <!---
