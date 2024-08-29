@@ -1,7 +1,7 @@
 ![Profile Badge](https://img.shields.io/badge/Profile-Active-brightgreen)
 
 <div align="center">
-  <img src="https://x.com/YeabsiraBezabih/photo" alt="Yeabsira Bezabih" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="#" alt="Yeabsira Bezabih" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   
   <h1>Welcome! I’m Yeabsira</h1>
   
