@@ -1,9 +1,8 @@
 ![Profile Badge](https://img.shields.io/badge/Profile-Active-brightgreen)
 
 <div align="center">
-  <img src="photo_2024-10-15_22-21-50.jpg" alt="Yeabsira Bezabih" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
   
-  <h1>Welcome! I’m Yeabsira</h1>
+  <h1>Welcome!</h1>
   
   <p>I'm <strong>Yeabsira Bezabih</strong>, a passionate coder and dedicated software engineering student at Addis Ababa Science and Technology University. My journey in coding started with curiosity and has evolved into a deep-seated interest in creating impactful software solutions.</p>
 </div>
